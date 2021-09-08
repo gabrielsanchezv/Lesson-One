@@ -1,1 +1,1 @@
-Sonrie y la fuerza estará contigo
+print("Sonrie y la fuerza estará contigo")
